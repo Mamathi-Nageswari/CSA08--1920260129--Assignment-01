@@ -1,0 +1,4 @@
+# Only the Python standard library is used for the calculator
+# (decimal, math, csv, json, datetime, random, time, timeit, sys, tracemalloc, keyword).
+# matplotlib is needed only for Task10/time_chart.py
+matplotlib==3.10.9
